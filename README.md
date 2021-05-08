@@ -58,9 +58,9 @@ Edit file yg berada di 'index.js'
 `owner`: nomor WhatsApp anda.  
 `prefix`: prefix bot.  
 `uaOverride`: your user agent.  
-`nao`: Mhankbarbar API. (http://mhankbarbar.moe/)  
+`Barbar`: Mhankbarbar API. (http://mhankbarbar.moe/)  
 `lol`: lolhuman API. (https://lolhuman.herokuapp.com/)  
-`zapi`: Vhtear API. (https://api.vhtear.com/)  
+`Vhtear`: Vhtear API. (https://api.vhtear.com/)  
 
 
 ## RUN BOT
