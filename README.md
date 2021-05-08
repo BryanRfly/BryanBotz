@@ -155,15 +155,16 @@ Scan the QR code using your WhatsApp in your phone!
 | Gay Cek         |      ✔️      |
 
 |       GAME        | Availability |
+| :--------------: | :----------: |
 | Truth         |      ✔️      |
-| Dare         |      ✔️      |
-| Tebak Gambar         |      ✔️      |
-| Cak Lontong         |      ✔️      |
-| Family100         |      ✔️      |
-| Tebak Bendera         |      ✔️      |
-| Tebak Gokil       |      ✔️      |
-| Tebak Kimia         |      ✔️      |
-| Cak Lontong         |      ✔️      |
+| Dare          |      ✔️      |
+| Tebak Gambar    |      ✔️      |
+| Cak Lontong       |      ✔️      |
+| Family100           |      ✔️      |
+| Tebak Bendera   |      ✔️      |
+| Tebak Gokil         |      ✔️      |
+| Tebak Kimia        |      ✔️      |
+| Cak Lontong        |      ✔️      |
 
 
 |       Other        | Availability |
