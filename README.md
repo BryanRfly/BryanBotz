@@ -243,10 +243,9 @@ Scan the QR code using your WhatsApp in your phone!
 | Cek PING   |      ✔️      |
 | Cek Status   |      ✔️      |
 
-## MORE FEATURE AVAILABLE ( cek sendiri )
+## MORE? RAKIT SENDIRI
 
 # Thanks to
-* [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
-* [`BocchiBot`](https://github.com/SlavyanDesu/BocchiBot)
-* [`vfbot-wa`](https://github.com/VideFrelan/vfbot-wa)
+* [`adiwajshing/Baileys`](https://github.com/adiwajshing/baileys)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`Arip`](https://github.com/Akkun3704)
