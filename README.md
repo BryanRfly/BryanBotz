@@ -69,6 +69,7 @@ Edit file yg berada di 'index.js'
 ```
 
 Scan the QR code using your WhatsApp in your phone!
+
 Eror? Hub wa.me/6288286421519
 
 # OPTIONAL
