@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/hBQ32Hx/3a7fcd4aae0a.jpg" alt="NINO-BAILEYS" width="300" />
+<img src="https://i.ibb.co/PCpJRqd/pepeq.jpg" alt="NINO-BAILEYS" width="300" />
 
 # BOT WHATSAPP BAILEYS
 
@@ -35,8 +35,8 @@
 
 # INSTALLATION
 ```bash
-> git clone https://github.com/Nino-chan02/Nino-Baileys
-> cd Nino-Baileys
+> git clone https://github.com/BryanRfly/BryanBotz
+> cd BryanBotz
 > npm install
 ```
 
