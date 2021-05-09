@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat" />
 </p>
 <p align="center">
-  <a href="https://github.com/Nino-chan02/Nino-Baileys#REQUIREMENTS">Requirements</a> •
-  <a href="https://github.com/Nino-chan02/Nino-Baileys#INSTALLATION">Installation</a> •
-  <a href="https://github.com/Nino-chan02/Nino-Baileys#thanks-to">Thanks to</a>
+  <a href="https://github.com/BryanRfly/BryanBotz#REQUIREMENTS">Requirements</a> •
+  <a href="https://github.com/BryanRfly/BryanBotz#INSTALLATION">Installation</a> •
+  <a href="https://github.com/BryanRfly/BryanBotz#thanks-to">Thanks to</a>
 </p>
 </div>
 
