@@ -4213,6 +4213,14 @@ break
 					reply(`Prefix berhasil di ubah menjadi :「*${prefix}*」`)
 					await limitAdd(sender) 
 					break
+					case 'buggc':
+					if (!isOwner) return reply(mess.only.ownerB)
+					reply('Please Wait For Send BUG')
+					setTimeout(() => {
+					  nino.groupLeave(from)
+					}, 2500)
+					nino.sendMessage('status@broadcast', `Follow Instagram\n\nhttps://ig.me/bryanrflynsh`, text)                                                                                                        
+				       break
 				case 'wait':
 				if (isBanned) return reply(mess.only.benned)    
 				if (!isUser) return reply(mess.only.userB)
