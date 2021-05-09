@@ -58,7 +58,7 @@ Edit file yg berada di 'index.js'
 `owner`: nomor WhatsApp anda.  
 `prefix`: prefix bot.  
 `uaOverride`: your user agent.  
-`Barbar`: Mhankbarbar API. (http://mhankbarbar.moe/)  
+`Barbar`: Mhankbarbar API. (https://mhankbarbar.moe/)  
 `lol`: lolhuman API. (https://lolhuman.herokuapp.com/)  
 `Vhtear`: Vhtear API. (https://api.vhtear.com/)  
 
@@ -69,6 +69,7 @@ Edit file yg berada di 'index.js'
 ```
 
 Scan the QR code using your WhatsApp in your phone!
+Eror? Hub wa.me/6288286421519
 
 # OPTIONAL
 
