@@ -70,7 +70,7 @@ Edit file yg berada di 'index.js'
 
 Scan the QR code using your WhatsApp in your phone!
 
-Eror? Hub wa.me/6288286421519
+Eror? Hub wa.me/6287724880504
 
 # OPTIONAL
 
@@ -246,9 +246,26 @@ Eror? Hub wa.me/6288286421519
 | Cek PING   |      ✔️      |
 | Cek Status   |      ✔️      |
 
-## MORE? RAKIT SENDIRI
+## MORE? RAKIT SENDIR
+
+# I'm Here!
+* [`Whatsapp`](https://wa.me/6287724880504)
+* [`Instagram`](https://ig.me/bryan_rafly09)
+* [`Instagram`](https://ig.me/bryanrflynsh)
+* [`Telegram`](https://t.me/BryanRfly)
 
 # Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Arip`](https://github.com/Akkun3704)
+* [`Nino Chan`](https://github.com/Nino-chan02)
+
+## NOTE 
+<p>Ini Adalah Script Bot Whatsapp Yang Gratis Untuk Kalian Semua Maka Dari Itu Gunakan Script Ini Dengan Bijak & Jangan Di Perjual Belikan, Jika Ingin Mengambil Case dari script Ini Beri Credit Yang Bersangkutan Dalam Sript Ini, Project Ini Akan Terus Saya Kembangkan Apa Bila Ada Waktu Luang,Don't Delete Thanks For, Ingin Bertanya? Silahkan Chat Saya Melalui Media Sosial Yang Tertera Di Atas</p>
+
+<p>~ Ditulis Oleh: MhankBarBar</p>
+<p>~ Dikembangkan Oleh: Nino Chan</p>
+<p>~ Diubah Oleh: BryanRfly</p>
+
+<p>BryanRfly
+Recoder</p>
